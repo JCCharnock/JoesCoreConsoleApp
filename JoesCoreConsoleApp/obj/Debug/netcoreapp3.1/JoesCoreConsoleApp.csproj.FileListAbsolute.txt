@@ -1,0 +1,13 @@
+C:\ExtensionsLearning\DotNetCore\Console\JoesCoreConsoleApp\JoesCoreConsoleApp\bin\Debug\netcoreapp3.1\JoesCoreConsoleApp.exe
+C:\ExtensionsLearning\DotNetCore\Console\JoesCoreConsoleApp\JoesCoreConsoleApp\bin\Debug\netcoreapp3.1\JoesCoreConsoleApp.deps.json
+C:\ExtensionsLearning\DotNetCore\Console\JoesCoreConsoleApp\JoesCoreConsoleApp\bin\Debug\netcoreapp3.1\JoesCoreConsoleApp.runtimeconfig.json
+C:\ExtensionsLearning\DotNetCore\Console\JoesCoreConsoleApp\JoesCoreConsoleApp\bin\Debug\netcoreapp3.1\JoesCoreConsoleApp.runtimeconfig.dev.json
+C:\ExtensionsLearning\DotNetCore\Console\JoesCoreConsoleApp\JoesCoreConsoleApp\bin\Debug\netcoreapp3.1\JoesCoreConsoleApp.dll
+C:\ExtensionsLearning\DotNetCore\Console\JoesCoreConsoleApp\JoesCoreConsoleApp\bin\Debug\netcoreapp3.1\JoesCoreConsoleApp.pdb
+C:\ExtensionsLearning\DotNetCore\Console\JoesCoreConsoleApp\JoesCoreConsoleApp\obj\Debug\netcoreapp3.1\JoesCoreConsoleApp.csprojAssemblyReference.cache
+C:\ExtensionsLearning\DotNetCore\Console\JoesCoreConsoleApp\JoesCoreConsoleApp\obj\Debug\netcoreapp3.1\JoesCoreConsoleApp.csproj.CoreCompileInputs.cache
+C:\ExtensionsLearning\DotNetCore\Console\JoesCoreConsoleApp\JoesCoreConsoleApp\obj\Debug\netcoreapp3.1\JoesCoreConsoleApp.AssemblyInfoInputs.cache
+C:\ExtensionsLearning\DotNetCore\Console\JoesCoreConsoleApp\JoesCoreConsoleApp\obj\Debug\netcoreapp3.1\JoesCoreConsoleApp.AssemblyInfo.cs
+C:\ExtensionsLearning\DotNetCore\Console\JoesCoreConsoleApp\JoesCoreConsoleApp\obj\Debug\netcoreapp3.1\JoesCoreConsoleApp.dll
+C:\ExtensionsLearning\DotNetCore\Console\JoesCoreConsoleApp\JoesCoreConsoleApp\obj\Debug\netcoreapp3.1\JoesCoreConsoleApp.pdb
+C:\ExtensionsLearning\DotNetCore\Console\JoesCoreConsoleApp\JoesCoreConsoleApp\obj\Debug\netcoreapp3.1\JoesCoreConsoleApp.genruntimeconfig.cache
