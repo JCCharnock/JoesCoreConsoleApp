@@ -14,7 +14,7 @@ namespace JoesCoreConsoleApp
             public void Run(int input)
             {
                 int j = 0;
-
+                Console.WriteLine("blah di");
                 //let's make the code more readable
                 updateCapturedLocalVariable = x =>
                 {
@@ -23,6 +23,7 @@ namespace JoesCoreConsoleApp
                     Console.WriteLine($"{j} is greater than {input}: {result}");
                 };
 
+                //oops made another change
                 isEqualToCapturedLocalVariable = x => x == j;
 
                 Console.WriteLine($"Local variable before lambda invocation: {j}");
