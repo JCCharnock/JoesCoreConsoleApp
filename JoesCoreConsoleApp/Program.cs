@@ -15,6 +15,7 @@ namespace JoesCoreConsoleApp
             {
                 int j = 0;
 
+                //let's make the code more readable
                 updateCapturedLocalVariable = x =>
                 {
                     j = x;
