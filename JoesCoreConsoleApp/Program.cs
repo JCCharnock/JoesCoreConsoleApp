@@ -14,7 +14,7 @@ namespace JoesCoreConsoleApp
             public void Run(int input)
             {
                 int j = 0;
-                Console.WriteLine("blah di");
+                Console.WriteLine("CaN WE GET THIS ON LAPTOP?");
                 //let's make the code more readable
                 updateCapturedLocalVariable = x =>
                 {
